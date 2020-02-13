@@ -1,3 +1,8 @@
 <resources>
 	<string name="app_name">RelativeLayout</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button">Button</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
 </resources>
